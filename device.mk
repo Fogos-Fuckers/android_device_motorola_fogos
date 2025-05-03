@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
     FrameworksResDevice \
     FrameworksResDeviceXT2363-8 \
     FrameworksResDeviceXT2363-9 \
+    LineageApertureAppDevice \
     ProductFrameworksResDevice \
     SystemUIResDevice \
     WifiResDevice \
