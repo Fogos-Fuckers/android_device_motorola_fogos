@@ -105,3 +105,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/motorola/fogos/fogos-vendor.mk)
+
+# Inherit MindTheGapps
+$(call inherit-product, vendor/gapps/arm64/arm64-vendor.mk)
